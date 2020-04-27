@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Kata practice blog
 published: true
 ---
 
