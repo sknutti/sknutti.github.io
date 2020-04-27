@@ -1,9 +1,0 @@
----
-layout: post
-title: Kata practice blog
-published: true
----
-
-This blog is intended to be a practice ground for me to explain how I solve the daily katas I'm doing.  Below I plan to add a list of entries:
-
--[Entry for Kata 1](who knows)
