@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve Days Kata
+title: April 29, 2020 -- Twelve Days Kata
 published: true
 ---
 
