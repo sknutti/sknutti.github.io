@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Twelve Days Kata
-published: false
+published: true
 ---
 
 Today I did the Twelve Days Kata(Java) which involved implementing several functions that would return a single verse given the number, a set of verses given a range, or do the whole song.
